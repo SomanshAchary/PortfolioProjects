@@ -1,8 +1,8 @@
-Title: "Sales Analysis and Insights: Maximizing Revenue and Understanding Customer Behavior"
+**Title: "Sales Analysis and Insights: Maximizing Revenue and Understanding Customer Behavior"**
 
 Project Summary:
 
-In this project, we conducted a thorough analysis of sales data to gain valuable insights into various aspects of the business.
+In this project, I conducted a thorough analysis of sales data to gain valuable insights into various aspects of the business.
 The project involved several key steps:
 
 1. Data Collection and Preparation:
