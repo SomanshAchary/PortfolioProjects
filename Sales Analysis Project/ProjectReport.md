@@ -15,19 +15,19 @@ The project involved several key steps:
    
 **3. Exploratory Data Analysis (EDA):**
 
-   - Question 1: What was the best month for sales? How much was earned that month? 
-   - Determining the best month for sales and the revenue earned during that month. 
-     This analysis provided insights into seasonal sales patterns.
+   - Question 1: What was the best month for sales? How much was earned that month?
+       - Determining the best month for sales and the revenue earned during that month. 
+         This analysis provided insights into seasonal sales patterns.
 
    - Question 2: What city sold the most product?
-   - Identifying the city that sold the most products, shedding light on geographical sales trends.
+       - Identifying the city that sold the most products, shedding light on geographical sales trends.
    
    - Question 3: What time should we display advertisements to maximize likelihood of customer's buying product?
-   - Determining the optimal time for displaying advertisements to maximize the likelihood of customers buying products.
-     I analyzed hourly order patterns to make informed marketing decisions.
+       - Determining the optimal time for displaying advertisements to maximize the likelihood of customers buying products.
+         I analyzed hourly order patterns to make informed marketing decisions.
    
    - Question 4: What product sold the most? Why do you think it sold the most?
-   - Identifying the product that sold the most and exploring its relationship with price. 
+       - Identifying the product that sold the most and exploring its relationship with price. 
                  This analysis helped understand the top-performing product's success factors.
    
 **4. Data Visualization:**
