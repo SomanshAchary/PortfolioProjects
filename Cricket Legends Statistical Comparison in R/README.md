@@ -18,7 +18,7 @@ This R script provides a statistical comparison between cricket legends R. Ponti
 
 ## Author
 
-[Your Name]
+Somansh Achary
 
 ## License
 
