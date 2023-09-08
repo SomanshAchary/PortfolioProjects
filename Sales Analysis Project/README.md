@@ -1,7 +1,3 @@
-Certainly! Here's a README file for your Python script:
-
----
-
 # Sales Analysis
 
 This Python script performs an analysis on sales data. It covers various tasks including data merging, cleaning, and exploration.
@@ -50,5 +46,3 @@ Somansh Achary
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
