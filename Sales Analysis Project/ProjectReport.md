@@ -35,7 +35,7 @@ The project involved several key steps:
 
 **5. Insights and Recommendations:**
    - Based on the analysis, I provided recommendations to the business:
-      - The best month for sales is December followed by octer, with total revenue of $4,613,443 and $3,736,726 respectively.
+      - The best month for sales is December followed by October, with total revenue of $4,613,443 and $3,736,726 respectively.
       - The city of San Francisco (CA) has consistently outperformed others in sales.
       - To maximize customer engagement, consider advertising during the hours slightly before 7pm  or between 11am - 12 noon.
       - The top-selling product is AAA Batteries (4-pack), with 31017 units sold and an average price of $2.99.
