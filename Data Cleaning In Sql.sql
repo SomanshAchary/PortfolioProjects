@@ -6,13 +6,6 @@ Cleaning Data in SQL Queries
 UPDATE NashvilleHousing
 SET SaleDate = STR_TO_DATE(SaleDateConverted, '%m/%d/%y %H:%i');
 
--- If it doesn't Update properly
-ALTER TABLE NashvilleHousing
-ADD SaleDateConverted DATETIME;
-
-UPDATE NashvilleHousing
-SET SaleDateConverted = STR_TO_DATE(SaleDate, '%m/%d/%y %H:%i');
-
 -- Populate Property Address data
 UPDATE NashvilleHousing a
 JOIN NashvilleHousing b ON a.ParcelID = b.ParcelID AND a.UniqueID <> b.UniqueID
